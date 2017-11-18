@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1498948856 source:e:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1499034026 
+
+1498948708 e:\tp_3_cascara\funciones.h
+
+1498948844 source:e:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1499031006 source:c:\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1499034026 c:\tp_3_cascara\funciones.h
+
+1499034026 source:c:\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1499046222 source:/media/alumno/9016-4EF8/tp_laboratorio_1-master/tp_laboratorio_1-master/TP_3_Cascara/funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1499120596 /media/alumno/9016-4EF8/tp_laboratorio_1-master/tp_laboratorio_1-master/TP_3_Cascara/funciones.h
+
+1499034028 source:/media/alumno/9016-4EF8/tp_laboratorio_1-master/tp_laboratorio_1-master/TP_3_Cascara/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1510524818 source:d:\tps de laboratorio 1\tp_laboratorio_1-master\tp_3_cascara\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"utn.h"
+	<conio.h>
+	<ctype.h>
+
+1510524796 d:\tps de laboratorio 1\tp_laboratorio_1-master\tp_3_cascara\funciones.h
+
+1510524796 source:d:\tps de laboratorio 1\tp_laboratorio_1-master\tp_3_cascara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	<conio.h>
+	<ctype.h>
+
+1453762398 source:d:\tps de laboratorio 1\tp_laboratorio_1-master\tp_3_cascara\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+
+1453762398 d:\tps de laboratorio 1\tp_laboratorio_1-master\tp_3_cascara\utn.h
+
